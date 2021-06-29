@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Boné aba curva Nike rosa",
+      "email": "50",
+      "quantidade": "3",
+      "id": 1
+    }
+  ],
+  "clients": [
+    {
+      "name": "leonaro",
+      "email": "leoando@hotmail.com",
+      "telefone": "(12) 93106-8719",
+      "idade": "12/11/12",
+      "cpf": "454.445.454-54",
+      "id": 3
+    }
+  ]
+}
